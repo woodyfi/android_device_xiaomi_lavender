@@ -23,9 +23,9 @@
 
 # Inherit Redmi Note 7 device config
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xperience_lavender.mk
+    $(LOCAL_DIR)/aosp_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
-    xperience_lavender-eng \
-    xperience_lavender-userdebug \
-    xperience_lavender-user
+    aosp_lavender-eng \
+    aosp_lavender-userdebug \
+    aosp_lavender-user
