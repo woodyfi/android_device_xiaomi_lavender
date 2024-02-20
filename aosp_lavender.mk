@@ -29,7 +29,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/xiaomi/lavender/device.mk)
 
 # Inherit some common XPerience stuff.
-$(call inherit-product, vendor/xperience/config/common.mk)
+$(call inherit-product, vendor/xperienc/config/common.mk)
 
 
 # Boot Animation
